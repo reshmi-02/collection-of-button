@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+div{
+	width:30%;
+	background-color:skyblue;
+	height:200px;
+}
+#i{
+	font-size:24px;
+	width:50%;
+}
+
+#e{
+	width:50%;
+}
+#d{
+	width:50%;
+}
+#f{
+	width:50%;
+}
+label{
+	font-size:24px;
+}
